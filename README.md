@@ -16,7 +16,7 @@ I am passionate about **Natural Language Processing** and **Neural Networks**, a
 
 ## 🚀 Projects
 
-### Memoerable — Android App Prototype  
+### Memorable — Android App Prototype  
 A capstone project app designed to support elderly users at risk of Alzheimer’s through cognitive games, memos, and social connection features.  
 View images and design assets here: [Memoerable Images](https://drive.google.com/drive/folders/13dgDAuiMk4MpjgluMrMFTvr9OUClCX8g?usp=sharing)
 
